@@ -15,11 +15,11 @@ I'm a back-end developer from France.
 
 [![My Skills](https://skillicons.dev/icons?i=idea,git,github,gitlab,vscode,postman)](https://skillicons.dev) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arum4t&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScQuentin&theme=tokyonight)  
 
 ### GitHub stats
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arum4t&show_icons=true&theme=ayu-mirage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScQuentin&show_icons=true&theme=ayu-mirage)
 
 ### Where to find me
 ---
