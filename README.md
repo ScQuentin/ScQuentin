@@ -24,7 +24,7 @@ I'm a back-end developer from France.
 ### Where to find me
 ---
 <p align="left">
-  <a href="https://www.linkedin.com/in/quentin-schnurr67/">
+  <a href="https://www.linkedin.com/in/quentin-schnurr/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
