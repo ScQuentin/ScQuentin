@@ -17,9 +17,9 @@ I'm a back-end developer from France.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScQuentin&theme=tokyonight)  
 
-### GitHub stats
+<!--### GitHub stats
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScQuentin&show_icons=true&theme=ayu-mirage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScQuentin&show_icons=true&theme=ayu-mirage)-->
 
 ### Where to find me
 ---
